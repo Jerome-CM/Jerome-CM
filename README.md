@@ -3,6 +3,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=script&size=25&duration=2000&pause=150&color=F78E1A&center=true&vCenter=true&multiline=true&width=600&height=100&lines=My+Java+training+finish+in+June%2C+;after%2C+;i'm+ready)](https://git.io/typing-svg)
 
+ ## Me
+ 
+ <p>Self-taught since 2015 in the web, I take advantage of a change of orientation to professionalize myself thanks to Java. In training until June 2023 at OpenClassRooms, I would like to join a company afterwards in order to work in a team and improve my skills</p>
+ 
+ ```java
+ public static void main(String[] args){
+ 
+ Developer dev = new Developer(
+  "Jérôme",
+  32,
+  "Vineuil (41)")
+  "Driving licence";
+  )
+ }
+ 
+ ```
+ 
  ## My environement
 
   #### Languages
