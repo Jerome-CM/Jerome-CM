@@ -5,7 +5,9 @@
 
  ## Me
  
- <p>Self-taught since 2015 in the web, I take advantage of a change of orientation to professionalize myself thanks to Java. In training until June 2023 at OpenClassRooms, I would like to join a company afterwards in order to work in a team and improve my skills</p>
+ <p>Self-taught since 2015 in the web, I take advantage of a change of orientation to professionalize myself thanks to Java. In training until June 2023   at OpenClassRooms, I would like to join a company afterwards in order to work in a team and improve my skills </p>
+ 
+ <p> I love open source and contributing to group projects</p>
  
  ## My environement
 
@@ -70,6 +72,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jerome-CM&theme=dark&border_radius=5&locale=fr&background=0D1117&ring=F78E1A&fire=F78E1A#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jerome-CM&theme=dark&border_radius=5&locale=fr&background=0D1117&ring=F78E1A&fire=F78E1A#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-
 
 </section>
