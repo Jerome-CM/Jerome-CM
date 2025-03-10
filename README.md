@@ -1,7 +1,7 @@
 <section align="center">
 <img src="banner.png" margin="0" padding="0">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=script&size=25&duration=2000&pause=150&color=F78E1A&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Recherche+une+alternance+en+Master+CyberSécurité+pour+septembre+2025)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=script&size=25&duration=2000&pause=150&color=F78E1A&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Cherche+alternance+en+Master+CyberSécurité+pour+septembre)](https://git.io/typing-svg)
 
  ## Me
  
