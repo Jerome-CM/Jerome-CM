@@ -1,8 +1,6 @@
 <section align="center">
 <img src="banner.png" margin="0" padding="0">
 
-# Recherche d'une alternance en Master CyberSécurité pour septembre 2025
-
  ## Me
  
  <p>Self-taught since 2015 in the web, I take advantage of a change of orientation to professionalize myself thanks to Java. In training until June 2023   at OpenClassRooms, I would like to join a company afterwards in order to work in a team and improve my skills </p>
